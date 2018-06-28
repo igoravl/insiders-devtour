@@ -1,0 +1,25 @@
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Include="..\webBrowser\Form1.cs">
+      <Link>Form1.cs</Link>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="..\webBrowser\Form1.Designer.cs">
+      <Link>Form1.Designer.cs</Link>
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="..\webBrowser\AboutBox1.cs">
+      <Link>AboutBox1.cs</Link>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="..\webBrowser\AboutBox1.Designer.cs">
+      <Link>AboutBox1.Designer.cs</Link>
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="..\webBrowser\Program.cs">
+      <Link>Program.cs</Link>
+    </Compile>
+  </ItemGroup>
+
+  <Import Project="..\Directory.build.targets" />
+</Project>

@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "winforms.core": {
+      "commandName": "Project"
+    }
+  }
+}

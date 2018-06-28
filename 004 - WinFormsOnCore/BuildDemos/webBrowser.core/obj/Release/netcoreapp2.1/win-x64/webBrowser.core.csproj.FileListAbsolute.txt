@@ -1,0 +1,15 @@
+C:\source\buildDemos\webBrowser.core\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\source\buildDemos\webBrowser.core\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\source\buildDemos\webBrowser.core\bin\Release\netcoreapp2.1\win-x64\webBrowser.core.exe
+C:\source\buildDemos\webBrowser.core\bin\Release\netcoreapp2.1\win-x64\webBrowser.core.dll.config
+C:\source\buildDemos\webBrowser.core\bin\Release\netcoreapp2.1\win-x64\webBrowser.core.deps.json
+C:\source\buildDemos\webBrowser.core\bin\Release\netcoreapp2.1\win-x64\webBrowser.core.runtimeconfig.json
+C:\source\buildDemos\webBrowser.core\bin\Release\netcoreapp2.1\win-x64\webBrowser.core.runtimeconfig.dev.json
+C:\source\buildDemos\webBrowser.core\bin\Release\netcoreapp2.1\win-x64\webBrowser.core.dll
+C:\source\buildDemos\webBrowser.core\bin\Release\netcoreapp2.1\win-x64\webBrowser.core.pdb
+C:\source\buildDemos\webBrowser.core\obj\Release\netcoreapp2.1\win-x64\webBrowser.core.csprojResolveAssemblyReference.cache
+C:\source\buildDemos\webBrowser.core\obj\Release\netcoreapp2.1\win-x64\webBrowser.core.csproj.CoreCompileInputs.cache
+C:\source\buildDemos\webBrowser.core\obj\Release\netcoreapp2.1\win-x64\webBrowser.core.AssemblyInfoInputs.cache
+C:\source\buildDemos\webBrowser.core\obj\Release\netcoreapp2.1\win-x64\webBrowser.core.AssemblyInfo.cs
+C:\source\buildDemos\webBrowser.core\obj\Release\netcoreapp2.1\win-x64\webBrowser.core.dll
+C:\source\buildDemos\webBrowser.core\obj\Release\netcoreapp2.1\win-x64\webBrowser.core.pdb

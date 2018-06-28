@@ -1,0 +1,17 @@
+C:\source\buildDemos\pieSample.core\bin\Debug\netcoreapp2.1\pieSample.core.dll.config
+C:\source\buildDemos\pieSample.core\bin\Debug\netcoreapp2.1\pieSample.core.deps.json
+C:\source\buildDemos\pieSample.core\bin\Debug\netcoreapp2.1\pieSample.core.runtimeconfig.json
+C:\source\buildDemos\pieSample.core\bin\Debug\netcoreapp2.1\pieSample.core.runtimeconfig.dev.json
+C:\source\buildDemos\pieSample.core\bin\Debug\netcoreapp2.1\pieSample.core.dll
+C:\source\buildDemos\pieSample.core\bin\Debug\netcoreapp2.1\pieSample.core.pdb
+C:\source\buildDemos\pieSample.core\bin\Debug\netcoreapp2.1\Telerik.WinControls.ChartView.dll
+C:\source\buildDemos\pieSample.core\bin\Debug\netcoreapp2.1\Telerik.WinControls.dll
+C:\source\buildDemos\pieSample.core\bin\Debug\netcoreapp2.1\Telerik.WinControls.UI.dll
+C:\source\buildDemos\pieSample.core\bin\Debug\netcoreapp2.1\TelerikCommon.dll
+C:\source\buildDemos\pieSample.core\obj\Debug\netcoreapp2.1\pieSample.core.csprojResolveAssemblyReference.cache
+C:\source\buildDemos\pieSample.core\obj\Debug\netcoreapp2.1\pieSample.core.csproj.CoreCompileInputs.cache
+C:\source\buildDemos\pieSample.core\obj\Debug\netcoreapp2.1\pieSample.core.AssemblyInfoInputs.cache
+C:\source\buildDemos\pieSample.core\obj\Debug\netcoreapp2.1\pieSample.core.AssemblyInfo.cs
+C:\source\buildDemos\pieSample.core\obj\Debug\netcoreapp2.1\pieSample.core.csproj.CopyComplete
+C:\source\buildDemos\pieSample.core\obj\Debug\netcoreapp2.1\pieSample.core.dll
+C:\source\buildDemos\pieSample.core\obj\Debug\netcoreapp2.1\pieSample.core.pdb

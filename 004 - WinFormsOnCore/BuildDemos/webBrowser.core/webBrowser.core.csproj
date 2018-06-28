@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RuntimeIdentifiers>win-x64;win-x86</RuntimeIdentifiers>
+    <TrimUnusedDependencies>true</TrimUnusedDependencies>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Runtime.WindowsRuntime" Version="4.5.0-rc1" />
+    <PackageReference Include="System.Windows.Forms" Version="4.6.0-alpha-26430-0" />
+    <PackageReference Include="Microsoft.Toolkit.Win32.UI.Controls" Version="3.0.0-preview-build.215.g12b51d83d2" />
+
+    <PackageReference Include="Microsoft.Packaging.Tools.Trimming" Version="1.1.0-preview1-26502-02" />
+    <!-- ensure we root the WinRT interop assembly since it's implicitly referenced by runtime when using WinRT -->
+    <TrimFilesRootFiles Include="System.Runtime.InteropServices.WindowsRuntime.dll" />
+  </ItemGroup>
+</Project>

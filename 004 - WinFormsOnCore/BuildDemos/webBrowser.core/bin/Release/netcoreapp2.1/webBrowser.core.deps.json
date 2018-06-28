@@ -1,0 +1,324 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "73ffe0ca563a7b053c54bcf848d289153af7d4ab"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "webBrowser.core/1.0.0": {
+        "dependencies": {
+          "Microsoft.Packaging.Tools.Trimming": "1.1.0-preview1-26502-02",
+          "Microsoft.Toolkit.Win32.UI.Controls": "3.0.0-preview-build.215.g12b51d83d2",
+          "System.Runtime.WindowsRuntime": "4.5.0-rc1",
+          "System.Windows.Forms": "4.6.0-alpha-26430-0"
+        },
+        "runtime": {
+          "webBrowser.core.dll": {}
+        }
+      },
+      "Accessibility/4.6.0-alpha-26430-0": {
+        "runtime": {
+          "lib/netcoreapp2.1/Accessibility.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Microsoft.Packaging.Tools.Trimming/1.1.0-preview1-26502-02": {},
+      "Microsoft.Toolkit.Win32.UI.Controls/3.0.0-preview-build.215.g12b51d83d2": {
+        "runtime": {
+          "lib/netcoreapp2.1/Microsoft.Toolkit.Win32.UI.Controls.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.215"
+          }
+        }
+      },
+      "Microsoft.Win32.Registry/4.5.0-rc1-26423-06": {
+        "dependencies": {
+          "System.Security.AccessControl": "4.5.0-rc1-26423-06",
+          "System.Security.Principal.Windows": "4.5.0-rc1-26423-06"
+        },
+        "runtimeTargets": {
+          "runtime/unix/lib/_._": {
+            "rid": "unix",
+            "assetType": "runtime"
+          },
+          "runtime/win/lib/_._": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "Microsoft.Win32.SystemEvents/4.5.0-rc1-26423-06": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26423.6"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26423.6"
+          }
+        }
+      },
+      "System.Configuration.ConfigurationManager/4.5.0-rc1-26423-06": {
+        "dependencies": {
+          "System.Security.Cryptography.ProtectedData": "4.5.0-rc1-26423-06",
+          "System.Security.Permissions": "4.5.0-rc1-26423-06"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.6.26423.6"
+          }
+        }
+      },
+      "System.Drawing.Common/4.5.0-rc1-26423-06": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "4.5.0-rc1-26423-06"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26423.6"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26423.6"
+          },
+          "runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26423.6"
+          }
+        }
+      },
+      "System.Media.SoundPlayer/4.6.0-alpha-26430-0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Media.SoundPlayer.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26430.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.1/System.Media.SoundPlayer.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26430.0"
+          }
+        }
+      },
+      "System.Runtime.WindowsRuntime/4.5.0-rc1": {
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.1/System.Runtime.WindowsRuntime.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.14.0",
+            "fileVersion": "4.6.26430.0"
+          }
+        }
+      },
+      "System.Security.AccessControl/4.5.0-rc1-26423-06": {
+        "dependencies": {
+          "System.Security.Principal.Windows": "4.5.0-rc1-26423-06"
+        },
+        "runtimeTargets": {
+          "runtime/win/lib/_._": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "System.Security.Cryptography.Cng/4.5.0-rc1-26423-06": {
+        "runtimeTargets": {
+          "runtime/win/lib/_._": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "System.Security.Cryptography.ProtectedData/4.5.0-rc1-26423-06": {
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "4.0.3.0",
+            "fileVersion": "4.6.26423.6"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.3.0",
+            "fileVersion": "4.6.26423.6"
+          }
+        }
+      },
+      "System.Security.Permissions/4.5.0-rc1-26423-06": {
+        "dependencies": {
+          "System.Security.AccessControl": "4.5.0-rc1-26423-06"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Permissions.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.6.26423.6"
+          }
+        }
+      },
+      "System.Security.Principal.Windows/4.5.0-rc1-26423-06": {
+        "runtimeTargets": {
+          "runtime/unix/lib/_._": {
+            "rid": "unix",
+            "assetType": "runtime"
+          },
+          "runtime/win/lib/_._": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "System.Windows.Forms/4.6.0-alpha-26430-0": {
+        "dependencies": {
+          "Accessibility": "4.6.0-alpha-26430-0",
+          "Microsoft.Win32.Registry": "4.5.0-rc1-26423-06",
+          "Microsoft.Win32.SystemEvents": "4.5.0-rc1-26423-06",
+          "System.Configuration.ConfigurationManager": "4.5.0-rc1-26423-06",
+          "System.Drawing.Common": "4.5.0-rc1-26423-06",
+          "System.Media.SoundPlayer": "4.6.0-alpha-26430-0",
+          "System.Security.Cryptography.Cng": "4.5.0-rc1-26423-06",
+          "System.Security.Permissions": "4.5.0-rc1-26423-06"
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.1/System.Windows.Forms.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26430.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "webBrowser.core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Accessibility/4.6.0-alpha-26430-0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5XGp1WP9jlQu6YdfWDghRFX76LIAGJN35XorF6bUyDlUfaCx3tgKj/l7/Y0vrhMITLUMOWZksFkZfUHHSJWSCg==",
+      "path": "accessibility/4.6.0-alpha-26430-0",
+      "hashPath": "accessibility.4.6.0-alpha-26430-0.nupkg.sha512"
+    },
+    "Microsoft.Packaging.Tools.Trimming/1.1.0-preview1-26502-02": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ql12oVmOodQtvLe4gTBvJA/5Qd/e+9iLI0WG+bgJoFnU67fZiHDNcmlfwkTPv2ATro+UbeRD3UEkiPRB2MmHLQ==",
+      "path": "microsoft.packaging.tools.trimming/1.1.0-preview1-26502-02",
+      "hashPath": "microsoft.packaging.tools.trimming.1.1.0-preview1-26502-02.nupkg.sha512"
+    },
+    "Microsoft.Toolkit.Win32.UI.Controls/3.0.0-preview-build.215.g12b51d83d2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IxgzEg+Brnp88hU4OOpV/OFV20gdLq/+TGj7QOK+hm7RhMA0fIbb94bbYbfeEhplhIvxOk/81MKrasccHrIHHQ==",
+      "path": "microsoft.toolkit.win32.ui.controls/3.0.0-preview-build.215.g12b51d83d2",
+      "hashPath": "microsoft.toolkit.win32.ui.controls.3.0.0-preview-build.215.g12b51d83d2.nupkg.sha512"
+    },
+    "Microsoft.Win32.Registry/4.5.0-rc1-26423-06": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PS3GdKlj0EYrxiYqDQ9R0p10yOxlHZwqQy+LRsy0BpP2pSe3LPvAYa+LmymNnL0E/bu8gybDghqLloj/3CsIrA==",
+      "path": "microsoft.win32.registry/4.5.0-rc1-26423-06",
+      "hashPath": "microsoft.win32.registry.4.5.0-rc1-26423-06.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/4.5.0-rc1-26423-06": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Y7ZfmVTunZ28PEhqHRJ3VO5rVyYaQ/mMViQEOupsWhaBkMwPoDbEGni7xe3ENPe5C0x23g3S0pWuXROekJxQgw==",
+      "path": "microsoft.win32.systemevents/4.5.0-rc1-26423-06",
+      "hashPath": "microsoft.win32.systemevents.4.5.0-rc1-26423-06.nupkg.sha512"
+    },
+    "System.Configuration.ConfigurationManager/4.5.0-rc1-26423-06": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FLzxdKYDeh+TtCNGwg8T8AE49SKq7Gw3QZPL2EDSgPf4Bj8Z35CfbntvrjIkEhSGwZnZcTuBPeGUFPtIxvq+Zw==",
+      "path": "system.configuration.configurationmanager/4.5.0-rc1-26423-06",
+      "hashPath": "system.configuration.configurationmanager.4.5.0-rc1-26423-06.nupkg.sha512"
+    },
+    "System.Drawing.Common/4.5.0-rc1-26423-06": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Buo8Yddu2/nRN13pMJOG43M9vlVyXF5zQH7mOr1DC/4Iz31gruDI+H1BBsYJIM0MxxQOK+dLYEoNcsv4JSDD+Q==",
+      "path": "system.drawing.common/4.5.0-rc1-26423-06",
+      "hashPath": "system.drawing.common.4.5.0-rc1-26423-06.nupkg.sha512"
+    },
+    "System.Media.SoundPlayer/4.6.0-alpha-26430-0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3J3f4GND9TUp+451K7/OSktJBymdJ2Ikhkf+FEJ9zSeBmnffGoySDFwF/6yzvx7B//PZMYcSNvQhpWrOsNDrvg==",
+      "path": "system.media.soundplayer/4.6.0-alpha-26430-0",
+      "hashPath": "system.media.soundplayer.4.6.0-alpha-26430-0.nupkg.sha512"
+    },
+    "System.Runtime.WindowsRuntime/4.5.0-rc1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w3S1jaj8TtLg1kdNoY83kk7yZtePda/tKV+SiBheAr0r1Z83CBrxcqyltk1wyV4y8SWGP/qoJe1Rc0aeB3DRvQ==",
+      "path": "system.runtime.windowsruntime/4.5.0-rc1",
+      "hashPath": "system.runtime.windowsruntime.4.5.0-rc1.nupkg.sha512"
+    },
+    "System.Security.AccessControl/4.5.0-rc1-26423-06": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-s2uFgvGp6APGWB+pQ/yhKUJt7anY6Ppx+UFXN6gMR9qEcCg9wM3IXdCoZYTaOyG74O3x3DCv9NKTFmiYhId+ag==",
+      "path": "system.security.accesscontrol/4.5.0-rc1-26423-06",
+      "hashPath": "system.security.accesscontrol.4.5.0-rc1-26423-06.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Cng/4.5.0-rc1-26423-06": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+NqCtPyMBvDfCl7iH6WStdbc3PgSFnchTJFfIrX/fkcPpNEWQlsHllG1S9pvysPfuEENc/47GIKtEn7FgNUtow==",
+      "path": "system.security.cryptography.cng/4.5.0-rc1-26423-06",
+      "hashPath": "system.security.cryptography.cng.4.5.0-rc1-26423-06.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/4.5.0-rc1-26423-06": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xizObRbojAVNnynMAXHJmYF/bFu42JQZEKpt10rha7uIJhNGIvoRihmnSef3ADIWaS2iHPgEp+c2zshFyOqheA==",
+      "path": "system.security.cryptography.protecteddata/4.5.0-rc1-26423-06",
+      "hashPath": "system.security.cryptography.protecteddata.4.5.0-rc1-26423-06.nupkg.sha512"
+    },
+    "System.Security.Permissions/4.5.0-rc1-26423-06": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ozOTCSUrPk+7jnnv/WeAtg6wEyUE25ay+VHXQd7q0LjgxpNg3g9q4GMvqI7wAIwsJckZ5PdlNgk7pDu2ScAmXg==",
+      "path": "system.security.permissions/4.5.0-rc1-26423-06",
+      "hashPath": "system.security.permissions.4.5.0-rc1-26423-06.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.5.0-rc1-26423-06": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uk1fLNTWLDfs2cbuNEeE+tYvR/r4cTQJCbJUWaGiPYjnL8Ygl3nu0nXcKs0VGwKqnqXNzciOVb+1yRVgdRlW3Q==",
+      "path": "system.security.principal.windows/4.5.0-rc1-26423-06",
+      "hashPath": "system.security.principal.windows.4.5.0-rc1-26423-06.nupkg.sha512"
+    },
+    "System.Windows.Forms/4.6.0-alpha-26430-0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZntX52IACbzsCF071yj05Cd4Dq9ZUMo33Qq1uINcWGmGK0TsZyNa2HbupFf1H25InxJ17VTLNPnbhRLHtbzcmQ==",
+      "path": "system.windows.forms/4.6.0-alpha-26430-0",
+      "hashPath": "system.windows.forms.4.6.0-alpha-26430-0.nupkg.sha512"
+    }
+  }
+}

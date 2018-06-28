@@ -1,0 +1,17 @@
+C:\source\buildDemos\pieSample\bin\Release\pieSample.exe.config
+C:\source\buildDemos\pieSample\bin\Release\pieSample.exe
+C:\source\buildDemos\pieSample\bin\Release\pieSample.pdb
+C:\source\buildDemos\pieSample\bin\Release\Telerik.WinControls.ChartView.dll
+C:\source\buildDemos\pieSample\bin\Release\Telerik.WinControls.dll
+C:\source\buildDemos\pieSample\bin\Release\Telerik.WinControls.UI.dll
+C:\source\buildDemos\pieSample\bin\Release\TelerikCommon.dll
+C:\source\buildDemos\pieSample\obj\Release\pieSample.AboutBox1.resources
+C:\source\buildDemos\pieSample\obj\Release\pieSample.Form1.resources
+C:\source\buildDemos\pieSample\obj\Release\pieSample.Properties.Resources.resources
+C:\source\buildDemos\pieSample\obj\Release\pieSample.csproj.GenerateResource.cache
+C:\source\buildDemos\pieSample\obj\Release\pieSample.exe.licenses
+C:\source\buildDemos\pieSample\obj\Release\pieSample.csproj.CoreCompileInputs.cache
+C:\source\buildDemos\pieSample\obj\Release\pieSample.csproj.CopyComplete
+C:\source\buildDemos\pieSample\obj\Release\pieSample.exe
+C:\source\buildDemos\pieSample\obj\Release\pieSample.pdb
+C:\source\buildDemos\pieSample\obj\Release\pieSample.csprojAssemblyReference.cache

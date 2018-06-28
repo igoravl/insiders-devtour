@@ -1,0 +1,13 @@
+C:\source\buildDemos\webBrowser\bin\Release\webBrowser.exe.config
+C:\source\buildDemos\webBrowser\bin\Release\webBrowser.exe
+C:\source\buildDemos\webBrowser\bin\Release\webBrowser.pdb
+C:\source\buildDemos\webBrowser\bin\Release\Microsoft.Toolkit.Win32.UI.Controls.dll
+C:\source\buildDemos\webBrowser\obj\Release\webBrowser.AboutBox1.resources
+C:\source\buildDemos\webBrowser\obj\Release\webBrowser.Form1.resources
+C:\source\buildDemos\webBrowser\obj\Release\webBrowser.Properties.Resources.resources
+C:\source\buildDemos\webBrowser\obj\Release\webBrowser.csproj.GenerateResource.cache
+C:\source\buildDemos\webBrowser\obj\Release\webBrowser.csproj.CoreCompileInputs.cache
+C:\source\buildDemos\webBrowser\obj\Release\webBrowser.csproj.CopyComplete
+C:\source\buildDemos\webBrowser\obj\Release\webBrowser.exe
+C:\source\buildDemos\webBrowser\obj\Release\webBrowser.pdb
+C:\source\buildDemos\webBrowser\obj\Release\webBrowser.csprojAssemblyReference.cache

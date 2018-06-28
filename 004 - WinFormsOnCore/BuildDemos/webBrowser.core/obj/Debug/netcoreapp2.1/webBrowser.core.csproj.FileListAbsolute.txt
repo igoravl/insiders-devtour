@@ -1,0 +1,12 @@
+C:\source\buildDemos\webBrowser.core\bin\Debug\netcoreapp2.1\webBrowser.core.dll.config
+C:\source\buildDemos\webBrowser.core\bin\Debug\netcoreapp2.1\webBrowser.core.deps.json
+C:\source\buildDemos\webBrowser.core\bin\Debug\netcoreapp2.1\webBrowser.core.runtimeconfig.json
+C:\source\buildDemos\webBrowser.core\bin\Debug\netcoreapp2.1\webBrowser.core.runtimeconfig.dev.json
+C:\source\buildDemos\webBrowser.core\bin\Debug\netcoreapp2.1\webBrowser.core.dll
+C:\source\buildDemos\webBrowser.core\bin\Debug\netcoreapp2.1\webBrowser.core.pdb
+C:\source\buildDemos\webBrowser.core\obj\Debug\netcoreapp2.1\webBrowser.core.csprojResolveAssemblyReference.cache
+C:\source\buildDemos\webBrowser.core\obj\Debug\netcoreapp2.1\webBrowser.core.csproj.CoreCompileInputs.cache
+C:\source\buildDemos\webBrowser.core\obj\Debug\netcoreapp2.1\webBrowser.core.AssemblyInfoInputs.cache
+C:\source\buildDemos\webBrowser.core\obj\Debug\netcoreapp2.1\webBrowser.core.AssemblyInfo.cs
+C:\source\buildDemos\webBrowser.core\obj\Debug\netcoreapp2.1\webBrowser.core.dll
+C:\source\buildDemos\webBrowser.core\obj\Debug\netcoreapp2.1\webBrowser.core.pdb

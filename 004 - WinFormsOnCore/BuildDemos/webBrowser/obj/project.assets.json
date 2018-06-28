@@ -1,0 +1,171 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.1": {
+      "Microsoft.Toolkit.Win32.UI.Controls/3.0.0-preview-build.215.g12b51d83d2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "PresentationFramework",
+          "System",
+          "System.Core",
+          "System.Design",
+          "System.Drawing",
+          "System.Windows.Forms",
+          "System.Xaml",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net462/Microsoft.Toolkit.Win32.UI.Controls.dll": {}
+        },
+        "runtime": {
+          "lib/net462/Microsoft.Toolkit.Win32.UI.Controls.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.1/win": {
+      "Microsoft.Toolkit.Win32.UI.Controls/3.0.0-preview-build.215.g12b51d83d2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "PresentationFramework",
+          "System",
+          "System.Core",
+          "System.Design",
+          "System.Drawing",
+          "System.Windows.Forms",
+          "System.Xaml",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net462/Microsoft.Toolkit.Win32.UI.Controls.dll": {}
+        },
+        "runtime": {
+          "lib/net462/Microsoft.Toolkit.Win32.UI.Controls.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.1/win-x64": {
+      "Microsoft.Toolkit.Win32.UI.Controls/3.0.0-preview-build.215.g12b51d83d2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "PresentationFramework",
+          "System",
+          "System.Core",
+          "System.Design",
+          "System.Drawing",
+          "System.Windows.Forms",
+          "System.Xaml",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net462/Microsoft.Toolkit.Win32.UI.Controls.dll": {}
+        },
+        "runtime": {
+          "lib/net462/Microsoft.Toolkit.Win32.UI.Controls.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.1/win-x86": {
+      "Microsoft.Toolkit.Win32.UI.Controls/3.0.0-preview-build.215.g12b51d83d2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "PresentationFramework",
+          "System",
+          "System.Core",
+          "System.Design",
+          "System.Drawing",
+          "System.Windows.Forms",
+          "System.Xaml",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net462/Microsoft.Toolkit.Win32.UI.Controls.dll": {}
+        },
+        "runtime": {
+          "lib/net462/Microsoft.Toolkit.Win32.UI.Controls.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Toolkit.Win32.UI.Controls/3.0.0-preview-build.215.g12b51d83d2": {
+      "sha512": "IxgzEg+Brnp88hU4OOpV/OFV20gdLq/+TGj7QOK+hm7RhMA0fIbb94bbYbfeEhplhIvxOk/81MKrasccHrIHHQ==",
+      "type": "package",
+      "path": "microsoft.toolkit.win32.ui.controls/3.0.0-preview-build.215.g12b51d83d2",
+      "files": [
+        "lib/net462/Microsoft.Toolkit.Win32.UI.Controls.dll",
+        "lib/net462/Microsoft.Toolkit.Win32.UI.Controls.xml",
+        "lib/netcoreapp2.1/Microsoft.Toolkit.Win32.UI.Controls.dll",
+        "lib/netcoreapp2.1/Microsoft.Toolkit.Win32.UI.Controls.xml",
+        "microsoft.toolkit.win32.ui.controls.3.0.0-preview-build.215.g12b51d83d2.nupkg.sha512",
+        "microsoft.toolkit.win32.ui.controls.nuspec",
+        "tools/VisualStudioToolsManifest.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.1": [
+      "Microsoft.Toolkit.Win32.UI.Controls >= 3.0.0-preview-build.215.g12b51d83d2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\scothu\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\source\\buildDemos\\webBrowser\\webBrowser.csproj",
+      "projectName": "webBrowser",
+      "projectPath": "C:\\source\\buildDemos\\webBrowser\\webBrowser.csproj",
+      "packagesPath": "C:\\Users\\scothu\\.nuget\\packages\\",
+      "outputPath": "C:\\source\\buildDemos\\webBrowser\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\source\\buildDemos\\NuGet.Config",
+        "C:\\Users\\scothu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net471"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\source\\buildDemos\\build\\packages": {},
+        "c:\\nupkg": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dotnet.myget.org/F/dotnet-core/api/v3/index.json": {},
+        "https://dotnetfeedmsrc.azurewebsites.net/sig/IRM5eIunVL12kUvX2iK45SgDtyDTXT7npIPzCyd0A68/se/2018-08-29/orchestrated-release-2-1/20180426-02/final/index.json": {}
+      },
+      "frameworks": {
+        "net471": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net471": {
+        "dependencies": {
+          "Microsoft.Toolkit.Win32.UI.Controls": {
+            "target": "Package",
+            "version": "[3.0.0-preview-build.215.g12b51d83d2, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
